@@ -1,0 +1,22 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_ADC_CS1237
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_ADC_CS1237	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	analogRead	KEYWORD2
+	setPinVrefOut	KEYWORD2
+	getPinVrefOut	KEYWORD2
+	setSpeed	KEYWORD2
+	getSpeed	KEYWORD2
+	setPGA	KEYWORD2
+	getPGA	KEYWORD2
+	setChannel	KEYWORD2
+	getChannel	KEYWORD2
+	setVrefIn	KEYWORD2
+	getVoltage	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
